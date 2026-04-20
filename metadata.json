@@ -1,0 +1,6 @@
+{
+  "name": "AI Trip Planner",
+  "description": "An AI-powered trip planning solution built with Next.js and Convex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
